@@ -1,0 +1,32 @@
+<suite name="Suite" verbose="1" >
+<test name="Test_Textbox" >
+<classes>
+<class name="mypackage.Test_Textbox" />
+</classes>
+</test>
+<test name="Test_Checkbox" >
+<classes>
+<class name="mypackage.Test_Checkbox" />
+</classes>
+</test>
+<test name="Test_Combo_box" >
+<classes>
+<class name="mypackage.Test_Combo_box" />
+</classes>
+</test>
+<test name="Test_dropdown_list" >
+<classes>
+<class name="mypackage.Test_dropdown_list" />
+</classes>
+</test>
+<test name="Test_Radiobutton" >
+<classes>
+<class name="mypackage.Test_Radiobutton" />
+</classes>
+</test>
+<test name="Test_Table" >
+<classes>
+<class name="mypackage.Test_Table" />
+</classes>
+</test>
+</suite>

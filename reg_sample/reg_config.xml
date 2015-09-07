@@ -1,0 +1,12 @@
+<suite name="Suite" verbose="1" >
+<test name="FirstTest" >
+<classes>
+<class name="pkg.Baseclass" />
+</classes>
+</test>
+<test name="SecondTest" >
+<classes>
+<class name="pkg.sample_reg" />
+</classes>
+</test>
+</suite>

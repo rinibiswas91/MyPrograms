@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test_Textbox(failed)">
+    <classes>
+      <class name="mypackage.Test_Radiobutton">
+        <methods>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- mypackage.Test_Radiobutton -->
+      <class name="mypackage.Test_Checkbox">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- mypackage.Test_Checkbox -->
+      <class name="mypackage.Test_Combo_box">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- mypackage.Test_Combo_box -->
+      <class name="mypackage.Test_dropdown_list">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- mypackage.Test_dropdown_list -->
+      <class name="mypackage.Test_Table">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- mypackage.Test_Table -->
+      <class name="mypackage.Test_Textbox">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+          <include name="Testtextbox"/>
+        </methods>
+      </class> <!-- mypackage.Test_Textbox -->
+    </classes>
+  </test> <!-- Test_Textbox(failed) -->
+  <test name="Test_Checkbox(failed)">
+    <classes>
+      <class name="mypackage.Test_Radiobutton">
+        <methods>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- mypackage.Test_Radiobutton -->
+      <class name="mypackage.Test_Checkbox">
+        <methods>
+          <include name="Testcheckbox"/>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- mypackage.Test_Checkbox -->
+      <class name="mypackage.Test_Combo_box">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- mypackage.Test_Combo_box -->
+      <class name="mypackage.Test_dropdown_list">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- mypackage.Test_dropdown_list -->
+      <class name="mypackage.Test_Table">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- mypackage.Test_Table -->
+      <class name="mypackage.Test_Textbox">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- mypackage.Test_Textbox -->
+    </classes>
+  </test> <!-- Test_Checkbox(failed) -->
+  <test name="Test_Combo_box(failed)">
+    <classes>
+      <class name="mypackage.Test_Radiobutton">
+        <methods>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- mypackage.Test_Radiobutton -->
+      <class name="mypackage.Test_Checkbox">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- mypackage.Test_Checkbox -->
+      <class name="mypackage.Test_Combo_box">
+        <methods>
+          <include name="testComboBox"/>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- mypackage.Test_Combo_box -->
+      <class name="mypackage.Test_dropdown_list">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- mypackage.Test_dropdown_list -->
+      <class name="mypackage.Test_Table">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- mypackage.Test_Table -->
+      <class name="mypackage.Test_Textbox">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- mypackage.Test_Textbox -->
+    </classes>
+  </test> <!-- Test_Combo_box(failed) -->
+  <test name="Test_dropdown_list(failed)">
+    <classes>
+      <class name="mypackage.Test_Radiobutton">
+        <methods>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- mypackage.Test_Radiobutton -->
+      <class name="mypackage.Test_Checkbox">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- mypackage.Test_Checkbox -->
+      <class name="mypackage.Test_Combo_box">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- mypackage.Test_Combo_box -->
+      <class name="mypackage.Test_Table">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- mypackage.Test_Table -->
+      <class name="mypackage.Test_dropdown_list">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+          <include name="Testdropdownlist"/>
+        </methods>
+      </class> <!-- mypackage.Test_dropdown_list -->
+      <class name="mypackage.Test_Textbox">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- mypackage.Test_Textbox -->
+    </classes>
+  </test> <!-- Test_dropdown_list(failed) -->
+  <test name="Test_Radiobutton(failed)">
+    <classes>
+      <class name="mypackage.Test_Radiobutton">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="TestRadioButton"/>
+        </methods>
+      </class> <!-- mypackage.Test_Radiobutton -->
+      <class name="mypackage.Test_Checkbox">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- mypackage.Test_Checkbox -->
+      <class name="mypackage.Test_Combo_box">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- mypackage.Test_Combo_box -->
+      <class name="mypackage.Test_dropdown_list">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- mypackage.Test_dropdown_list -->
+      <class name="mypackage.Test_Table">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- mypackage.Test_Table -->
+      <class name="mypackage.Test_Textbox">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- mypackage.Test_Textbox -->
+    </classes>
+  </test> <!-- Test_Radiobutton(failed) -->
+</suite> <!-- Failed suite [Suite] -->
